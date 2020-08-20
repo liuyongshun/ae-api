@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "egg-mongoose": "^3.2.0"
+  }
+}
